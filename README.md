@@ -61,5 +61,3 @@ This project is available under the MIT License. See the `LICENSE` file if inclu
 ---
 
 **Author:** [7aniishq](https://github.com/7aniishq)
-
-If you'd like, I can commit and push this `README.md` to your remote repository (confirm branch name: `main` or `master`).
