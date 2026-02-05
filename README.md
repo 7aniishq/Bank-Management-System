@@ -50,14 +50,6 @@ Follow the on-screen menu to perform banking operations.
 - `banksystem.c` - Main source file
 - `README.md` - Project documentation
 
-## Contributing 🤝
-
-Contributions are welcome. Open an issue or submit a pull request.
-
-## License 📄
-
-This project is available under the MIT License. See the `LICENSE` file if included, or add one if needed.
-
 ---
 
 **Author:** [7aniishq](https://github.com/7aniishq)
